@@ -186,7 +186,7 @@ pip install tensorflow numpy
 ### 3. Run the Project
 
 ```bash
-python mini_gpt.py
+python Transformer_Generative_Pre_trained_Transformer_Decoder_Only.py
 ```
 
 The script runs through all 11 steps automatically:
@@ -295,7 +295,7 @@ generate_text("gpt", number_of_words=4)
 
 ```
 mini-gpt-decoder-transformer/
-├── mini_gpt.py      <- Main project script (all 11 steps in one file)
+├── Transformer_Generative_Pre_trained_Transformer_Decoder_Only.py      <- Main project script (all 11 steps in one file)
 └── README.md
 ```
 
